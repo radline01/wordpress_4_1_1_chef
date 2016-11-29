@@ -14,10 +14,10 @@
  * @package WordPress
  */
 
-define('WP_REDIS_HOST', 'wordpress.c1yida.0001.usw1.cache.amazonaws.com');
+define('WP_REDIS_HOST', '');
  
-define('WP_HOME','d1ovjz3ctgvjqg.cloudfront.net');
-define('WP_SITEURL','d1ovjz3ctgvjqg.cloudfront.net');
+define('WP_HOME','');
+define('WP_SITEURL','');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
